@@ -12,6 +12,7 @@ return strs
  function  johnLennonFacts(facts){
    for(var i =0; i<facts.length; i++){
      console.log(facts[i])
+     facts[i] = facts[i] + "!!!"
      
    }
   
