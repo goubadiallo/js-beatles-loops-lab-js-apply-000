@@ -10,10 +10,12 @@ strs.push(str)
 return strs
 }
  function  johnLennonFacts(facts){
-   for(var i =0; i<facts.length; i++);
+   for(var i =0; i<facts.length; i++){
+     
+   }
   
    
-   }
+ }
    
    function iLoveTheBeatles(number){
      const num = []
