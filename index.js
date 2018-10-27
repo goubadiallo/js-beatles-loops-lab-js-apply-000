@@ -10,6 +10,7 @@ strs.push(str)
 return strs
 }
  function  johnLennonFacts(facts){
+   
   
    
    }
