@@ -25,7 +25,7 @@ return strs
    function iLoveTheBeatles(number){
      var num = [];
      do{
-       "I love the Beatles!"
+       
        num.push("I love the Beatles!")
      }
      
