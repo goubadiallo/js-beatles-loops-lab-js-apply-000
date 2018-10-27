@@ -26,6 +26,7 @@ return strs
      var num = [];
      do{
        "I love the Beatles!"
+       num.push("I love the Beatles!")
      }
      
      
