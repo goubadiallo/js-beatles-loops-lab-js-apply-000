@@ -15,6 +15,7 @@ return strs
      facts[i] = facts[i] + "!!!"
      
    }
+   return facts
   
    
  }
