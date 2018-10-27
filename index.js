@@ -29,9 +29,11 @@ return strs
        arr.push("I love the Beatles!")
        number++
      }
-     
+     while(number<15)
+     return arr
      
    }
+   
   
   
 
