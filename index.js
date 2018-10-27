@@ -23,10 +23,11 @@ return strs
  }
    
    function iLoveTheBeatles(number){
-     var num = [];
+     var arr= [];
      do{
        
-       num.push("I love the Beatles!")
+       arr.push("I love the Beatles!")
+       number++
      }
      
      
